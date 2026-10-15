@@ -66,7 +66,3 @@ template guides you to the exact subject / page. Use one issue per problem.
 
 When writing an issue, include the **subject** and the **page / section**, and
 quote the exact line or figure. This keeps fixes fast.
-
-## License
-
-Not specified yet — add a `LICENSE` before publishing if you want to set terms.
