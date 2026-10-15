@@ -60,9 +60,9 @@ of the output directory.
 Found a typo, a wrong equation, or the PDF will not build? Open an issue — the
 template guides you to the exact subject / page. Use one issue per problem.
 
-- **Repository:** [JiamingShi-JsPhys/Js_chemnotes](https://github.com/JiamingShi-JsPhys/Js_chemnotes)
+- **Repository:** [JiamingShi-JsPhys/Js_chemnotes](https://github.com/JiamingShi-JsPhys/ChemNotes)
 - **Report a problem / typo / build issue:**
-  [Issues](https://github.com/JiamingShi-JsPhys/Js_chemnotes/issues)
+  [Issues](https://github.com/JiamingShi-JsPhys/ChemNotes/issues)
 
 When writing an issue, include the **subject** and the **page / section**, and
 quote the exact line or figure. This keeps fixes fast.
