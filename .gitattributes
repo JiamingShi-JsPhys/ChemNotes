@@ -1,0 +1,5 @@
+# GitHub Actions requires LF for workflow files
+.github/workflows/*.yml text eol=lf
+# LaTeX sources stay CRLF on Windows
+*.tex text eol=crlf
+*.cls text eol=crlf
